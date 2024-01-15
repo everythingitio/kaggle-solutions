@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center" style=" border-bottom: 0px;">The Most Comprehensive List of Kaggle Solutions and Ideas</h3>
+  <h3 align="center" style=" border-bottom: 0px;">https://farid.one/kaggle-solutions/ <br/> The Most Comprehensive List of Kaggle Solutions and Ideas</h3>
 </p>
 
 <p align="center">
